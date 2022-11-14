@@ -61,7 +61,7 @@ body {
     position: relative;
 }
 
-.img-component::after {
+.img-component:after {
     position: absolute;
     content: '';
     height: 100%;
